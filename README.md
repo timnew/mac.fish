@@ -7,7 +7,7 @@ Plugin for _fish shell_ to work on mac.
 With [fisherman]
 
 ```fish
-$ fisher add timnew/mac.fish
+$ fisher install timnew/mac.fish
 ```
 
 ## Examples
