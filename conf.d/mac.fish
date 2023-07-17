@@ -1,3 +1,3 @@
-abbr -a -U -- xcode 'open -a Xcode'
-abbr -a -U -- copypwd 'pwd | pbcopy'
-abbr -a -U -- copyfile 'cat $1 | pbcopy'
+abbr -a -- xcode 'open -a Xcode'
+abbr -a -- copypwd 'pwd | pbcopy'
+abbr -a -- copyfile 'cat $1 | pbcopy'
